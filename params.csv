@@ -1,0 +1,17 @@
+patientid,Номер пациента
+date,Дата добавления
+sex,sex
+weight,weight
+height,height
+ad_s,ad_s
+ad_d,ad_d
+diabet2,diabet2
+sam_prishel,sam_prishel
+bmi,bmi
+n_fields,n_fields
+age_parsing,age_parsing
+point,point
+tf_idf_feature,tf_idf_feature
+patient_status,patient_status
+icd_letter,icd_letter
+status,Оценка вероятности летального исхода
